@@ -823,7 +823,7 @@
   padding: 1em;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  z-index: 9999;
+  z-index: 99999;
 }
 .fusion-builder-modal-settings-container .ui-button {
   border-radius: 0;
